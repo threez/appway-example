@@ -1,7 +1,7 @@
 {
-  "name": "procserver-example",
+  "name": "appway-example",
   "version": "0.1.0",
-  "description": "A simple node js example for procserver hosting using a procfile",
+  "description": "A simple node js example for appway hosting using a procfile",
   "author": "Vincent Landgraf <setcool@gmx.de>",
   "dependencies": {
     "express": "3.1.x"

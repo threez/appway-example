@@ -1,4 +1,4 @@
-procserver-example
+appway-example
 ==================
 
-An simple example procserver project using node.js
+An simple example appway project using node.js
